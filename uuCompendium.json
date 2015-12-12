@@ -139,13 +139,23 @@
     "children": [{
       "name": "Defensive",
       "children": [{
-        "name": "Pelipper"
+        "name": "Xatu"
       }, {
-        "name": "Avalugg"
+        "name": "Gligar"
       }, {
-        "name": "Torkoal"
+        "name": "Empoleon"
       }, {
-        "name": "Vullaby"
+        "name": "Forretress"
+      }, {
+        "name": "Donphan"
+      }, {
+        "name": "Togetic"
+      }, {
+        "name": "Hitmontop"
+      }, {
+        "name": "Mandibuzz"
+      }, {
+        "name": "Tentacruel"
       }]
     }, {
       "name": "Offensive",
