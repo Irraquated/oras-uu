@@ -33,6 +33,30 @@
             },
             {
               "name": "Empoleon"
+            },
+            {
+              "name": "Rhyperior"
+            },
+            {
+              "name": "Nidoking"
+            },
+            {
+              "name": "Omastar"
+            },
+            {
+              "name": "Dugtrio"
+            },
+            {
+              "name": "Kabutops"
+            },
+            {
+              "name": "Barbaracle"
+            },
+            {
+              "name": "Camerupt"
+            },
+            {
+              "name": "Smeargle"
             }
           ]
         },
@@ -63,12 +87,24 @@
             {
               "name": "Steelix"
             },
-						{
-							"name": "Uxie"
-						},
-						{
-							"name": "Bronzong"
-						}
+	    {
+	      "name": "Uxie"
+	    },
+	    {
+	      "name": "Bronzong"
+	    },
+	    {
+	      "name": "Registeel"
+	    },
+	    {
+	      "name": "Carbink"
+	    },
+	    {
+	      "name": "Regirock"
+	    },
+	    {
+	      "name": "Ferroseed"
+	    }
           ]
         }
       ]
