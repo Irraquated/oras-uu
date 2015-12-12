@@ -87,24 +87,24 @@
             {
               "name": "Steelix"
             },
-	    {
-	      "name": "Uxie"
-	    },
-	    {
-	      "name": "Bronzong"
-	    },
-	    {
-	      "name": "Registeel"
-	    },
-	    {
-	      "name": "Carbink"
-	    },
-	    {
-	      "name": "Regirock"
-	    },
-	    {
-	      "name": "Ferroseed"
-	    }
+	          {
+	            "name": "Uxie"
+	          },
+	          {
+	            "name": "Bronzong"
+	          },
+	          {
+	            "name": "Registeel"
+	          },
+	          {
+	            "name": "Carbink"
+	          },
+	          {
+	            "name": "Regirock"
+	          },
+	          {
+	          "name": "Ferroseed"
+	          }
           ]
         }
       ]
@@ -151,14 +151,44 @@
       "name": "Toxic Spikes Users",
       "children": [
         {
-          "name": "Whirlipede"
+          "name": "Nidoqueen"
         },
         {
-          "name": "Roselia"
+          "name": "Dragalge"
         },
         {
-          "name": "Frogadier"
-        }
+          "name": "Roserade"
+        },
+        {
+          "name": "Tentacruel"
+        },
+        {
+          "name": "Qwilfish"
+        },
+        {
+          "name": "Drapion"
+        },
+        {
+          "name": "Weezing"
+        },
+        {
+          "name": "Cofagrigus"
+        },
+        {
+          "name": "Forretress"
+        },
+        {
+          "name": "Omastar"
+        },
+        {
+          "name": "Cloyster"
+        },
+        {
+          "name": "Smeargle"
+        },
+        {
+          "name": "Beedrill"
+        },
       ]
     },
     {
