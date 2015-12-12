@@ -1,5 +1,5 @@
 {
-  "name": "ORAS PU Role Compendium",
+  "name": "ORAS UU Role Compendium",
   "children": [
     {
       "name": "Stealth Rock Users",
@@ -8,34 +8,31 @@
           "name": "Offensive",
           "children": [
             {
-              "name": "Golem"
+              "name": "Krookodile"
             },
             {
-              "name": "Barbaracle"
+              "name": "Swampert"
             },
             {
-              "name": "Aurorus"
+              "name": "Cobalion"
             },
             {
-              "name": "Carracosta"
+              "name": "Mamoswine"
             },
             {
-              "name": "Marowak"
+              "name": "Aerodactyl"
             },
             {
-              "name": "Torterra"
+              "name": "Nidoqueen"
             },
             {
-              "name": "Armaldo"
+              "name": "Infernape"
             },
             {
-              "name": "Rampardos"
+              "name": "Azelf"
             },
             {
-              "name": "Monferno"
-            },
-            {
-              "name": "Pawniard"
+              "name": "Empoleon"
             }
           ]
         },
@@ -43,34 +40,34 @@
           "name": "Defensive",
           "children": [
             {
-              "name": "Piloswine"
+              "name": "Forretress"
             },
             {
-              "name": "Probopass"
+              "name": "Aggron"
             },
             {
-              "name": "Stunfisk"
+              "name": "Gligar"
             },
             {
-              "name": "Torkoal"
+              "name": "Shuckle"
             },
             {
-              "name": "Carbink"
+              "name": "Blissey"
             },
             {
-              "name": "Metang"
+              "name": "Seismitoad"
             },
             {
-              "name": "Hippopotas"
+              "name": "Donphan"
             },
             {
-              "name": "Solrock"
+              "name": "Steelix"
             },
 						{
-							"name": "Dwebble"
+							"name": "Uxie"
 						},
 						{
-							"name": "Clefairy"
+							"name": "Bronzong"
 						}
           ]
         }
