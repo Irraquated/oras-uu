@@ -126,6 +126,15 @@
       "name": "Beedrill"
     }]
   }, {
+    "name": "Sticky Webs"
+    "children": [{
+      "name": "Shuckle"
+    }, {
+      "name": "Galvantula"
+    }, {
+      "name": "Smeargle"
+    }]
+  }, {
     "name": "Hazard Control",
     "children": [{
       "name": "Defensive",
