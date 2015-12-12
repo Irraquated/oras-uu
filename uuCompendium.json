@@ -113,19 +113,37 @@
       "name": "Spikes Users",
       "children": [
         {
-          "name": "Roselia"
+          "name": "Chesnaught"
         },
         {
-          "name": "Whirlipede"
+          "name": "Roserade"
         },
         {
-          "name": "Dwebble"
+          "name": "Forretress"
         },
         {
-          "name": "Quilladin"
+          "name": "Froslass"
         },
         {
-          "name": "Venipede"
+          "name": "Accelgor"
+        },
+        {
+          "name": "Omastar"
+        },
+        {
+          "name": "Qwilfish"
+        },
+        {
+          "name": "Ferroseed"
+        },
+        {
+          "name": "Cloyster"
+        },
+        {
+          "name": "Glalie"
+        },
+        {
+          "name": "Smeargle"
         }
       ]
     },
