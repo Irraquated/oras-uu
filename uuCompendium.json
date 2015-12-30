@@ -223,30 +223,104 @@
       "children": [{
         "name": "Florges"
       }, {
-        "name": "Armaldo"
+        "name": "Blissey"
       }, {
-        "name": "Ninjask"
+        "name": "Snorlax"
       }, {
-        "name": "Mightyena"
+        "name": "Roserade"
       }, {
-        "name": "Pawniard"
+        "name": "Ampharos"
       }, {
-        "name": "Parasect"
+        "name": "Empoleon"
+      }, {
+        "name": "Jellient"
+      }, {
+        "name": "Porygon2"
+      }, {
+        "name": "Vaporeon"
+      }, {
+        "name": "Umbreon"
+      }, {
+        "name": "Bronzong"
+      }, {
+        "name": "Audino"
+      }, {
+        "name": "Slowking"
+      }, {
+        "name": "Dragalge"
+      }, {
+        "name": "Registeel"
+      }, {
+        "name": "Mandibuzz"
+      }, {
+        "name": "Zapdos"
       }]
     }, {
        "name": "Physically Defensive",
       "children": [{
-        "name": "Florges"
+        "name": "Tangrowth"
       }, {
-        "name": "Armaldo"
+        "name": "Forretress"
       }, {
-        "name": "Ninjask"
+        "name": "Chesnaught"
       }, {
-        "name": "Mightyena"
+        "name": "Aggron"
       }, {
-        "name": "Pawniard"
+        "name": "Steelix"
       }, {
-        "name": "Parasect"
+        "name": "Donphan"
+      }, {
+        "name": "Arcanine"
+      }, {
+        "name": "Gligar"
+      }, {
+        "name": "Rhyperior"
+      }, {
+        "name": "Swampert"
+      }, {
+        "name": "Cofagrigus"
+      }, {
+        "name": "Qwilfish"
+      }, {
+        "name": "Trevanant"
+      }, {
+        "name": "Quagsire"
+      }, {
+        "name": "Banette"
+      }, {
+        "name": "Hitmontop"
+      }, {
+        "name": "Weezing"
+      }, {
+        "name": "Granbull"
+      }, {
+        "name": "Aromatisse"
+      }, {
+        "name": "Nidoqueen"
+      }, {
+        "name": "Doublade"
+      }, {
+        "name": "Alomomola"
+      }, {
+        "name": "Audino"
+      }, {
+        "name": "Seismitoad"
+      }, {
+        "name": "Salamence"
+      }, {
+        "name": "Registeel"
+      }, {
+        "name": "Porygon2"
+      }, {
+        "name": "Mandibuzz"
+      }, {
+        "name": "Ampharos"
+      }, {
+        "name": "Bronzong"
+      }, {
+        "name": "Umbreon"
+      }. {
+        "name": "Zapdos"
       }]
     }, {
        "name": "Mixed",
@@ -263,7 +337,7 @@
       }, {
         "name": "Parasect"
       }]
-    }
+    }]
   }, {
     "name": "Fightingtype Checks",
     "children": [{
