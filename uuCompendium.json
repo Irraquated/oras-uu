@@ -139,8 +139,6 @@
     "children": [{
       "name": "Defensive",
       "children": [{
-        "name": "Xatu"
-      }, {
         "name": "Gligar"
       }, {
         "name": "Empoleon"
@@ -149,20 +147,44 @@
       }, {
         "name": "Donphan"
       }, {
+        "name": "Tentacruel"
+      }, {
         "name": "Togetic"
       }, {
         "name": "Hitmontop"
       }, {
         "name": "Mandibuzz"
-      }, {
-        "name": "Tentacruel"
       }]
     }, {
       "name": "Offensive",
       "children": [{
-        "name": "Armaldo"
+        "name": "Absol"
       }, {
-        "name": "Swanna"
+        "name": "Xatu"
+      }, {
+        "name": "Espeon"
+      }, {
+        "name": "Crobat"
+      }, {
+        "name": "Blastoise"
+      }, {
+        "name": "Cloyster"
+      }, {
+        "name": "Flygon"
+      }, {
+        "name": "Salamence"
+      }, {
+        "name": "Kabutops"
+      }, {
+        "name": "Aerodactyl"
+      }, {
+        "name": "Hitmonlee"
+      }, {
+        "name": "Shiftry"
+      }, {
+        "name": "Smeargle"
+      }, {
+        "name": "Zapdos"
       }]
     }]
   }, {
