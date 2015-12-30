@@ -234,23 +234,36 @@
         "name": "Parasect"
       }]
     }, {
-      "name": "Physically Defensive",
+       "name": "Physically Defensive",
       "children": [{
-        "name": "Vespiquen"
+        "name": "Florges"
       }, {
-        "name": "Masquerain"
+        "name": "Armaldo"
       }, {
-        "name": "Dusknoir"
+        "name": "Ninjask"
       }, {
-        "name": "Gourgeist"
+        "name": "Mightyena"
       }, {
-        "name": "Misdreavus"
+        "name": "Pawniard"
+      }, {
+        "name": "Parasect"
       }]
     }, {
-      "name": "Mixed",
+       "name": "Mixed",
       "children": [{
-        
+        "name": "Florges"
+      }, {
+        "name": "Armaldo"
+      }, {
+        "name": "Ninjask"
+      }, {
+        "name": "Mightyena"
+      }, {
+        "name": "Pawniard"
+      }, {
+        "name": "Parasect"
       }]
+    }
   }, {
     "name": "Fightingtype Checks",
     "children": [{
