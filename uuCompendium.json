@@ -188,60 +188,40 @@
       }]
     }]
   }, {
-    "name": "Firetype Checks",
+    "name": "Wish / Healing Wish",
     "children": [{
-      "name": "Offensive",
-      "children": [{
-        "name": "Simipour"
-      }, {
-        "name": "Barbaracle"
-      }, {
-        "name": "Basculin"
-      }, {
-        "name": "Carracosta"
-      }, {
-        "name": "Floatzel"
-      }, {
-        "name": "Kingler"
-      }, {
-        "name": "Pelipper"
-      }, {
-        "name": "Golem"
-      }, {
-        "name": "Gabite"
-      }, {
-        "name": "Poliwrath"
-      }, {
-        "name": "Relicanth"
-      }, {
-        "name": "Zweilous"
-      }, {
-        "name": "Golduck"
-      }]
+      "name": "Umbreon"
     }, {
-      "name": "Defensive",
-      "children": [{
-        "name": "Piloswine"
-      }, {
-        "name": "Stunfisk"
-      }, {
-        "name": "Gabite"
-      }, {
-        "name": "Vibrava"
-      }, {
-        "name": "zweilous"
-      }, {
-        "name": "Lapras"
-      }, {
-        "name": "Onix"
-      }]
+      "name": "Vaporeon"
+    }, {
+      "name": "Florges"
+    }, {
+      "name": "Aromatisse"
+    }, {
+      "name": "Blissey"
+    }, {
+      "name": "Roserade"
+    }, {
+      "name": "Granbull"
+    }, {
+      "name": "Togetic"
+    }, {
+      "name": "Shaymin"
+    }, {
+      "name": "Ampharos"
+    }, {
+      "name": "Lanturn"
+    }, {
+      "name": "Audino"
+    }, {
+      "name": "Miltank"
     }]
   }, {
-    "name": "Psychictype Checks",
+    "name": "Walls",
     "children": [{
-      "name": "Offensive",
+      "name": "Specially Defensive",
       "children": [{
-        "name": "Zweilous"
+        "name": "Florges"
       }, {
         "name": "Armaldo"
       }, {
@@ -254,7 +234,7 @@
         "name": "Parasect"
       }]
     }, {
-      "name": "Defensive",
+      "name": "Physically Defensive",
       "children": [{
         "name": "Vespiquen"
       }, {
@@ -266,7 +246,11 @@
       }, {
         "name": "Misdreavus"
       }]
-    }]
+    }, {
+      "name": "Mixed",
+      "children": [{
+        
+      }]
   }, {
     "name": "Fightingtype Checks",
     "children": [{
