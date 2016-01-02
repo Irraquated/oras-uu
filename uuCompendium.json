@@ -693,7 +693,7 @@
   }, {
     "name": "Trappers",
     "children": [{
-      "name": "Pursuit"
+      "name": "Pursuit",
       "children": [{
         "name": "Absol"
       }, {
@@ -718,7 +718,7 @@
         "name": "Doublade"
       }]
     }, {
-      "name": "Ability"
+      "name": "Ability",
       "children": [{
         "name": "Magneton"
       }, {
