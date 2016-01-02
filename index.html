@@ -46,6 +46,11 @@ var arc = d3.svg.arc()
     .endAngle(function(d) { return d.x + d.dx - .01 / (d.depth + .5); })
     .innerRadius(function(d) { return radius / 3 * d.depth; })
     .outerRadius(function(d) { return radius / 3 * (d.depth + 1) - 1; });
+var circle = d3
+    .selectAll('circle')
+    .on("click", function (d) {
+        return d.attr("r", 85);
+    });
 d3.json("uuCompendium.json", function(error, root) {
   // Compute the initial layout on the entire tree to sum sizes.
   // Also compute the full name and fill color for each node,
