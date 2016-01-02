@@ -325,168 +325,405 @@
     }, {
        "name": "Mixed",
       "children": [{
-        "name": "Florges"
+        "name": "Cresselia"
       }, {
-        "name": "Armaldo"
+        "name": "Alomomola"
       }, {
-        "name": "Ninjask"
+        "name": "Umbreon"
       }, {
-        "name": "Mightyena"
+        "name": "Vaporeon"
       }, {
-        "name": "Pawniard"
+        "name": "Porygon2"
       }, {
-        "name": "Parasect"
+        "name": "Blastoise"
+      }, {
+        "name": "Crobat"
+      }, {
+        "name": "Shaymin"
+      }, {
+        "name": "Slowking"
+      }, {
+        "name": "Tentacruel"
+      }, {
+        "name": "Bronzong"
+      }, {
+        "name": "Milotic"
+      }, {
+        "name": "Gastrodon"
+      }, {
+        "name": "Amoonguss"
+      }, {
+        "name": "Aromatisse"
+      }, {
+        "name": "Ferroseed"
+      }, {
+        "name": "Audino"
+      }, {
+        "name": "Gligar"
+      }, {
+        "name": "Registeel"
+      }, {
+        "name": "Mandibuzz"
+      }, {
+        "name": "Zapdos"
       }]
     }]
   }, {
-    "name": "Fightingtype Checks",
+    "name": "Dual Screens",
     "children": [{
-      "name": "Offensive",
-      "children": [{
-        "name": "Kadabra"
-      }, {
-        "name": "Mr. Mime"
-      }, {
-        "name": "Solrock"
-      }, {
-        "name": "Dodrio"
-      }, {
-        "name": "Unfezant"
-      }, {
-        "name": "Pelipper"
-      }]
+      "name": "Cresselia"
     }, {
-      "name": "Defensive",
-      "children": [{
-        "name": "Togetic"
-      }, {
-        "name": "Vespiquen"
-      }, {
-        "name": "Hypno"
-      }, {
-        "name": "Meowstic"
-      }, {
-        "name": "Wobbuffet"
-      }]
+      "name": "Espeon"
+    }, {
+      "name": "Uxie"
+    }, {
+      "name": "Mesprit"
+    }, {
+      "name": "Azelf"
+    }, {
+      "name": "Bronzong"
+    }, {
+      "name": "Xatu"
+    }, {
+      "name": "Togetic"
     }]
   }, {
-    "name": "Wallbreakers",
+    "name": "Assault Vest",
     "children": [{
-      "name": "Zebstrika"
+      "name": "Machamp"
     }, {
-      "name": "Simipour"
+      "name": "Slowking"
     }, {
-      "name": "Kadabra"
+      "name": "Tangrowth"
     }, {
-      "name": "Poliwrath"
+      "name": "Snorlax"
     }, {
-      "name": "Sawsbuck"
+      "name": "Goodra"
     }, {
-      "name": "Ursaring"
+      "name": "Esavalier"
     }, {
-      "name": "Raichu"
+      "name": "Amoonguss"
     }, {
-      "name": "Stoutland"
+      "name": "Donphan"
     }, {
-      "name": "Floatzel"
+      "name": "Entei"
     }, {
-      "name": "Rapidash"
+      "name": "Meloetta"
+    }, {
+      "name": "Reuniclus"
+    }, {
+      "name": "Hoopa"
+    }, {
+      "name": "Dragalge"
+    }, {
+      "name": "Heracross"
     }]
   }, {
-    "name": "Stallbreakers/Taunt Users",
+    "name": "U-Turn / Volt-Switch",
     "children": [{
-      "name": "Barbaracla"
+      "name": "Beedrill"
     }, {
-      "name": "Basculin"
+      "name": "Crobat"
     }, {
-      "name": "Dodrio"
+      "name": "Mienshao"
     }, {
-      "name": "Rapidash"
+      "name": "Darmanitan"
     }, {
-      "name": "Jumpluff"
+      "name": "Azelf"
     }, {
-      "name": "Heatmor"
+      "name": "Hydreigon"
     }, {
-      "name": "Floatzel"
+      "name": "Gligar"
     }, {
-      "name": "Kadabra"
+      "name": "Whimsicott"
     }, {
-      "name": "Slaking"
+      "name": "Noivern"
     }, {
-      "name": "Vigoroth"
+      "name": "Tornadus"
     }, {
-      "name": "Simipour"
+      "name": "Flygon"
+    }, {
+      "name": "Infernape"
+    }, {
+      "name": "Meloetta"
+    }, {
+      "name": "Moltres"
+    }, {
+      "name": "Mandibuzz"
+    }, {
+      "name": "Xatu"
+    }, {
+      "name": "Rotom-Heat"
+    }, {
+      "name": "Rotom-Mow"
+    }, {
+      "name": "Lanturn"
+    }, {
+      "name": "Ampharos"
+    }, {
+      "name": "Magneton"
+    }, {
+      "name": "Cobalion"
+    }, {
+      "name": "Forretress"
+    }, {
+      "name": "Heliolisk"
+    }, {
+      "name": "Galvantula"
+    }, {
+      "name": "Jolteon"
+    }, {
+      "name": "Zapdos"
     }]
   }, {
     "name": "Pivots",
     "children": [{
       "name": "Offensive",
       "children": [{
-        "name": "Zebstrika"
+        "name": "Crobat"
       }, {
-        "name": "Pikachu-Belle"
+        "name": "Rotom-Heat"
       }, {
-        "name": "Electrode"
+        "name": "Rotom-Mow"
       }, {
         "name": "Monferno"
       }, {
-        "name": "Persian"
+        "name": "Cobalion"
       }, {
-        "name": "Purugly"
+        "name": "Ampharos"
       }, {
-        "name": "Rotom-Frost"
+        "name": "Goodra"
       }, {
-        "name": "Raichu"
+        "name": "Lanturn"
+      }, {
+        "name": "Flygon"
+      }, {
+        "name": "Jolteon"
+      }, {
+        "name": "Heliolisk"
+      }, {
+        "name": "Zapdos"
       }]
     }, {
       "name": "Defensive",
       "children": [{
-        "name": "Probopass"
+        "name": "Cresselia"
       }, {
-        "name": "Articuno"
+        "name": "Alomomola"
       }, {
-        "name": "Pelipper"
+        "name": "Slowking"
       }, {
-        "name": "Roselia"
+        "name": "Amoonguss"
       }, {
-        "name": "Tangela"
+        "name": "Tangrowth"
       }, {
-        "name": "Gourgeist"
+        "name": "Florges"
       }, {
-        "name": "Piloswine"
+        "name": "Aromatisse"
       }, {
-        "name": "Volbeat"
+        "name": "Umbreon"
       }, {
-        "name": "Misdreavus"
+        "name": "Blissey"
+      }, {
+        "name": "Porygon2"
+      }, {
+        "name":  "Gligar"
+      }, {
+        "name": "Whimsicott"
+      }, {
+        "name": "Forretress"
+      }, {
+        "name": "Lanturn"
+      }, {
+        "name": "Vaporeon"
+      }, {
+        "name": "Meloetta"
+      }, {
+        "name": "Qwilfish"
+      }, {
+        "name": "Bronzong"
+      }, {
+        "name": "Mandibuzz"
+      }, {
+        "name": "Xatu"
+      }, {
+        "name": "Rotom-Heat"
+      }, {
+        "name": "Ampharos"
+      }, {
+        "name": "Shedinja"
+      }, {
+        "name": "Zapdos"
       }]
     }]
   }, {
-    "name": "Choice Scarf Users",
+    "name": "Choice Users",
     "children": [{
-      "name": "Sawsbuck"
+      "name": "Choice Scarf",
+      "children": [{
+        "name": "Infernape"
+      }, {
+        "name": "Hydreigon"
+      }, {
+        "name": "Nidoking"
+      }, {
+        "name": "Krookodile"
+      }, {
+        "name": "Porygon-z"
+      }, {
+        "name": "Chandelure"
+      }, {
+        "name": "Rotom-Heat"
+      }, {
+        "name": "Rotom-Mow"
+      }, {
+        "name": "Flygon"
+      }, {
+        "name": "Noivern"
+      }, {
+        "name": "Mienshao"
+      }, {
+        "name": "Darmanitan"
+      }, {
+        "name": "Haxorus"
+      }, {
+        "name": "Durant"
+      }, {
+        "name": "Heracross"
+      }, {
+        "name": "Salamence"
+      }, {
+        "name": "Moltres"
+      }, {
+        "name": "Heliolisk"
+      }, {
+        "name": "Emboar"
+      }, {
+        "name": "Hitmonlee"
+      }, {
+        "name": "Tyrantrum"
+      }]
     }, {
-      "name": "Stoutland"
+       "name": "Choice Band",
+      "children": [{
+        "name": "Entei"
+      }, {
+        "name": "Flygon"
+      }, {
+        "name": "Crobat"
+      }, {
+        "name": "Krookodile"
+      }, {
+        "name": "Swampert"
+      }, {
+        "name": "Infernape"
+      }, {
+        "name": "Machamp"
+      }, {
+        "name": "Snorlax"
+      }, {
+        "name": "Haxorus"
+      }, {
+        "name": "Mienshao"
+      }, {
+        "name": "Darmanitan"
+      }, {
+        "name": "Dugtrio"
+      }, {
+        "name": "Heracross"
+      }, {
+        "name": "Pangoro"
+      }, {
+        "name": "Tyrantrum"
+      }, {
+        "name": "Stoutland"
+      }, {
+        "name": "Durant"
+      }, {
+        "name": "Salamence"
+      }, {
+        "name": "Esavalier"
+      }, {
+        "name": "Emboar"
+      }]
     }, {
-      "name": "Rotom-Frost"
-    }, {
-      "name": "Simipour"
-    }, {
-      "name": "Simisage"
-    }, {
-      "name": "Simisear"
-    }, {
-      "name": "Slaking"
-    }, {
-      "name": "Ditto"
-    }, {
-      "name": "Rampardos"
-    }, {
-      "name": "Gastly"
+       "name": "Choice Specs",
+      "children": [{
+        "name": "Hydreigon"
+      }, {
+        "name": "Porygon-z"
+      }, {
+        "name": "Kyurem"
+      }, {
+        "name": "Dragalge"
+      }, {
+        "name": "Rotom-Heat"
+      }, {
+        "name": "Rotom-Mow"
+      }, {
+        "name": "Noivern"
+      }, {
+        "name": "Yanmega"
+      }, {
+        "name": "Shaymin"
+      }, {
+        "name": "Roserade"
+      }, {
+        "name": "Kingdra"
+      }, {
+        "name": "Whimsicott"
+      }, {
+        "name": "Chandelure"
+      }, {
+        "name": "Exploud"
+      }, {
+        "name": "Meloetta"
+      }, {
+        "name": "Heliolisk"
+      }, {
+        "name": "Moltres"
+      }, {
+        "name": "Tornadus"
+      }, {
+        "name": "Magneton"
+      }, {
+        "name": "Zapdos"
+      }]
     }]
   }, {
     "name": "Trappers",
     "children": [{
-      "name": "Probopass"
+      "name": "Pursuit"
+      "children": [{
+        "name": "Absol"
+      }, {
+        "name": "Aerodactyl"
+      }, {
+        "name": "Krookodile"
+      }, {
+        "name": "Honchkrow"
+      }, {
+        "name": "Spiritomb"
+      }, {
+        "name": "Snorlax"
+      }, {
+        "name": "Stoutland"
+      }, {
+        "name": "Drapion"
+      }, {
+        "name": "Skuntank"
+      }, {
+        "name": "Esavalier"
+      }, {
+        "name": "Doublade"
+      }]
+    }, {
+      "name": "Ability"
+      "children": [{
+        "name": "Magneton"
+      }, {
+        "name": "Dugtrio"
+      }]
     }]
   }, {
     "name": "Priority",
