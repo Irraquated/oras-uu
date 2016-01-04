@@ -25,8 +25,8 @@ text {
 <body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 <script>
-var margin = {top: 10, right: 10, bottom: 10, left: 10},
-    radius = 490;
+var margin = {top: 325, right: 325, bottom: 325, left: 325},
+    radius = Math.min(margin.top, margin.right, margin.bottom, margin.left) - 10;
 var color = d3.scale.category20c();
 //var hue = d3.scale.category10();
 // var luminance = d3.scale.sqrt()
